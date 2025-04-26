@@ -1,16 +1,11 @@
-# education
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Book app
+- This app was developed on mac book and tested on simulator
+- Used flutter_screenutil for responsive
+- Used flutter_bloc for statemanagement
+- Used dio for apis
+- Used get_it for apply singleton design pattern
+- Used pretty_dio_logger for easy api request logger
+- Used shimmer for awesome loading
+- Used cached_network_image for network images
+- Used connectivity_plus for internet checker
+- Used refresh indicator for fetch the data without navigate to the screen
